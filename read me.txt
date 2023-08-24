@@ -1,0 +1,13 @@
+If you get any errors dm rg324_ on discord and ill solve them for you.
+
+Tutorial : Open Nexus, wait for the cmd prompt, wait 10 seconds and connect to growtopia (if you get stuck on getting server adress the proxy is not loaded yet,
+relaunch gt.
+
+/proxy for commands
+/world for world options
+/setspam and // for autospam
+/speed for all movement editors
+/cspam 0 /cspam 1 /cspam 2 /cspam 3 /cspam 4
+/cspam to spam crystals eggs etc
+/fakeres to csn tele
+/find to get any item
